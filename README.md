@@ -32,7 +32,7 @@
 
    または、ソリューションファイルを使用する場合：
    ```bash
-   dotnet build poc-dotnet.sln
+   dotnet build
    dotnet run --project src/PocDotNet
    ```
 
